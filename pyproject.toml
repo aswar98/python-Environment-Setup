@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my-awesome-project"
+version = "0.1"
+description ="A brif description of my awesome project"
+readme  = "README.md"
+license ={ file = "LICENSE"}
+
+authors = [
+  {name = " kishor example", email = "kishor@example.com"},
+ ]
+  
+ 
+
+
+[project.urls]
+Homepage = "https://example.com"
+Repository = "https://github.com/example/my-awesome-project"
+
