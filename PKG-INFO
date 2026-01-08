@@ -1,10 +1,10 @@
 Metadata-Version: 2.4
-Name: sampleproject
+Name: my-awesome-project
 Version: 0.1
+Summary: A brif description of my awesome project
 Author: kishor Aswar
-Author-email: kishoraswar@gmail.com
-Requires-Dist: langchain
-Requires-Dist: numpy
+Author-email:  kishor example <kishor@example.com>
+Project-URL: Homepage, https://example.com
+Project-URL: Repository, https://github.com/example/my-awesome-project
+Description-Content-Type: text/markdown
 Dynamic: author
-Dynamic: author-email
-Dynamic: requires-dist

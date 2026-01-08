@@ -1,8 +1,7 @@
 pyproject.toml
 setup.py
-sampleproject.egg-info/PKG-INFO
-sampleproject.egg-info/SOURCES.txt
-sampleproject.egg-info/dependency_links.txt
-sampleproject.egg-info/requires.txt
-sampleproject.egg-info/top_level.txt
+my_awesome_project.egg-info/PKG-INFO
+my_awesome_project.egg-info/SOURCES.txt
+my_awesome_project.egg-info/dependency_links.txt
+my_awesome_project.egg-info/top_level.txt
 src/__init__.py
